@@ -11,7 +11,7 @@ export default function App() {
       <CustomNavbar />
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Home />} />
+        <Route path="/academia-alexv" element={<Home />} />
         </Routes>
       </BrowserRouter>
     </div>
